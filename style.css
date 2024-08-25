@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(176, 209, 254);
+    margin-top: 35px;
+    padding: 50px;
+}
+
+.label{
+    background-color: rgb(94, 111, 244);
+    color: aliceblue;
+    text-align: center;
+    margin: 10px;
+    padding: 18px;
+    width: 1000px;
+}
+.btn{
+    transition: all 0.3s;
+    background-color: rgb(94, 111, 244);
+    color: aliceblue;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px;
+    width: 100px;
+}
+.btn:hover{
+    transform: scale(1.2);
+    background-color: rgba(28, 54, 247, 0.781);
+    color: aliceblue;
+}
